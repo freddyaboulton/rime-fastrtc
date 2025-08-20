@@ -1,0 +1,11 @@
+[project]
+name = "rime-fastrtc"
+version = "0.1.0"
+description = "Conversational Agent built with Rime Arcana and FastRTC"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastrtc[vad, stt]>=0.0.30",
+    "python-dotenv",
+    "aiortc==1.11.0"
+]

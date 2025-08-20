@@ -1,0 +1,2 @@
+RIME_API_KEY="Place your RIME api key here and rename this file to be .env"
+HF_TOKEN="Place your HF api key here"
