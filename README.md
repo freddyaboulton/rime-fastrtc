@@ -1,14 +1,6 @@
 # Rime FastRTC Conversational Agent
 
-A real-time conversational agent powered by FastRTC and Gradio. It streams audio, transcribes speech, and generates concise AI responses using Hugging Face models and RIME TTS.
-
-## Features
-
-- Real-time audio streaming and transcription
-- Short, concise AI responses
-- Multiple speaker voices via RIME TTS
-- Secure authentication with HF and RIME tokens
-- Gradio-based web UI
+A real-time conversational agent powered by FastRTC and Rime Arcana V2.
 
 ## Installation
 
